@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Menu – Salvatore Gelateria</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Salvatore Gelateria</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="menu.html">Menu</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Our Flavors</h2>
+    <ul class="flavor-list">
+      <li>Stracciatella</li>
+      <li>Pistachio</li>
+      <li>Hazelnut</li>
+      <li>Vanilla Bean</li>
+      <li>Chocolate Fudge</li>
+      <li>Espresso</li>
+      <li>Lemon Sorbet</li>
+      <li>Raspberry</li>
+      <li>Tiramisu</li>
+      <li>Mango</li>
+      <li>Salted Caramel</li>
+      <li>Coconut</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Salvatore Gelateria</p>
+  </footer>
+</body>
+</html>
