@@ -1,0 +1,64 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: #333;
+}
+
+header {
+  background: linear-gradient(to right, #ce2b37, #ffffff, #009246);
+  color: #000;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.hero {
+  text-align: center;
+  padding: 2rem;
+}
+
+.flavor-list {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+.flavor-list li {
+  margin: 0.5rem 0;
+  font-size: 1.2rem;
+}
+
+form {
+  max-width: 500px;
+  margin: 2rem auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+form input, form textarea {
+  padding: 10px;
+  font-size: 1rem;
+}
+
+form button {
+  padding: 10px;
+  background-color: #009246;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #f4f4f4;
+}
